@@ -22,7 +22,7 @@ To pass you need 80% of correct answer.
 
 
 # * 
- This version need some improvement but is good enough to help in learning distinguish frequencies. 
+This version requires some improvements, but it's good enough to help you learn to distinguish between frequencies
 
 
 
