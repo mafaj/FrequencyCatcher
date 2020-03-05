@@ -1,0 +1,10 @@
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.csprojResolveAssemblyReference.cache
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.Form1.resources
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.Properties.Resources.resources
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.csproj.GenerateResource.Cache
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\bin\Debug\frequency_catcher_app.exe.config
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\bin\Debug\frequency_catcher_app.exe
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\bin\Debug\frequency_catcher_app.pdb
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.exe
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.pdb
+D:\c++Audio\c#\frequency_catcher\frequency_catcher_app\frequency_catcher_app\obj\Debug\frequency_catcher_app.TrustInfo.xml
