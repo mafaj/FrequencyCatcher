@@ -17,7 +17,7 @@ Click 'OK' and 'Read file'. One file at time. (you can use samples from 'example
 Choose 'How many question' do you want, and click 'Ok'
 Click 'START'. You gonna hear the first sound (remember that depending on your speakers, some (high and low) frequencies may not be heard).
 In 'Your answer' field write your answer. It have to be exactly like one of the 'All possibly answers'.
-To pass you need 80% of correct answer.
+To pass you need 80% of correct answers.
 ## Good Luck :)
 
 
